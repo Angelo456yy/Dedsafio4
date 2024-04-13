@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\al881\\OneDrive\\Escritorio\\desafio4\\noti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A6455-CC73-4B73-948C-EBB8354E270B}|noti\\noti.csproj|c:\\users\\al881\\onedrive\\escritorio\\desafio4\\noti\\noti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65A6455-CC73-4B73-948C-EBB8354E270B}|noti\\noti.csproj|solutionrelative:noti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\OneDrive\\Escritorio\\desafio4\\noti\\noti\\Program.cs",
+              "RelativeDocumentMoniker": "noti\\Program.cs",
+              "ToolTip": "C:\\Users\\al881\\OneDrive\\Escritorio\\desafio4\\noti\\noti\\Program.cs",
+              "RelativeToolTip": "noti\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:16:14.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

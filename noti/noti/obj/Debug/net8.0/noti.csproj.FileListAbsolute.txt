@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\bin\Debug\net8.0\noti.exe
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\bin\Debug\net8.0\noti.deps.json
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\bin\Debug\net8.0\noti.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\bin\Debug\net8.0\noti.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\bin\Debug\net8.0\noti.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\noti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\noti.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\noti.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\noti.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\noti.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\refint\noti.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\noti.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\noti.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\noti\noti\obj\Debug\net8.0\ref\noti.dll
